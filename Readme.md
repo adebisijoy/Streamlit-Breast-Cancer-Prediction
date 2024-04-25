@@ -8,7 +8,7 @@ To start the app, simply run the following command:
 This will launch the app in your default browser. You can then input the measurements, and click the button to view the result.
 
 
-# Data Analysis
+# Exploratory Data Analysis / Prediction
 ![Cancer Prediction](Images/Image1.png)
 ![Cancer Prediction](Images/Image2.png)
 ![Cancer Prediction](Images/Image3.png)
